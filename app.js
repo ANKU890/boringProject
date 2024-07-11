@@ -31,7 +31,7 @@ function PlayMusic() {
 
   return (
     <div>
-      <img src="myImage.jpg" alt="Image" style={{ width: '100%', height: 'auto' }} />
+      <img src="https://i.ibb.co/9Hj1GSJ/solo-leveling-red-eyes-smiling-evil-hd-wallpaper-preview.jpg" alt="Image" style={{ width: '100%', height: 'auto' }} />
       <audio ref={audioRef} loop>
         <source src="12.mp3" type="audio/mpeg" />
       </audio>
