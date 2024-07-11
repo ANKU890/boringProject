@@ -48,7 +48,7 @@ function DisplayApp() {
     setTimeout(() => {
       changeLoadPage(false);
       changePlayMusic(true);
-    }, 2000);
+    }, 6000);
   }
 
   return (
